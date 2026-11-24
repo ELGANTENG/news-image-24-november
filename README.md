@@ -1,8 +1,8 @@
 # The World Today — Tuesday 24 November 2026
 
-[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/c/news-image-20261124)
-[![Rank](https://make.fun/badge/ELGANTENG/news-image-24-november/rank.svg)](https://make.fun/c/news-image-20261124)
-[![Reward](https://make.fun/badge/ELGANTENG/news-image-24-november/reward.svg)](https://make.fun/c/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/ELGANTENG/news-image-24-november/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/ELGANTENG/news-image-24-november/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A newspaper-style front page summing up Tuesday 24 November 2026 in one
 image: the masthead names the day, one large hero story, and six smaller
